@@ -1,0 +1,33 @@
+div {
+	border: solid 1px;
+	border-color: black;
+	margin: 5px;
+}
+
+#first p {
+	font-size:  40pt;
+}
+
+/*
+
+#third > p {
+	display: none;
+}
+
+h1 {
+	display:  none;
+}
+
+
+
+
+#second {
+	display:  none;
+}
+
+
+
+#sixth > img {display: ;}
+
+*/
+
